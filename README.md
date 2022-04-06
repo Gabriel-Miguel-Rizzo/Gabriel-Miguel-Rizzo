@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gabriel-Miguel-Rizzo
 - 👀 I’m interested in: Back-end, structured programming, Object-oriented programming.
-- 🌱 I’m currently learning:  PHP, Node.JS
+- 🌱 I’m currently learning:  Javascript, Node.JS
 - 💞️ I’m looking to collaborate on a good project that generates knowledge.
 - 📫 How to reach me: gabrielmiguel629@gmail.com
 
